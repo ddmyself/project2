@@ -1,0 +1,42 @@
+body{
+width:100%;
+margin:0 auto;
+font-family:Microsoft JhengHei;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+section{
+	width:100%;
+	min-height:100vh;
+	background-color:#d6ecfa;
+	opacity:0.85;
+}
+.title{
+	display: inline-block;
+	font-family: Microsoft JhengHei;
+	font-weight: bolder;
+	font-size: 55px;
+	position: relative;
+	left:850px;
+	top:120px;
+
+}
+.question{
+	display: inline-block; 
+	font-size: 22px; 
+	font-weight: bolder; 
+	font-family:Microsoft JhengHei; 
+	position: relative; 
+	left:800px; 
+	top:220px;
+}
+footer{
+	width:100%;
+	height:80px;
+	background-color:#8EC0E4;
+	text-align:center;
+	line-height:25px;
+}
+
